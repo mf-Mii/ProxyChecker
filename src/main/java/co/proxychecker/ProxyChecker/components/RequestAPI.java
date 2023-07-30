@@ -21,7 +21,7 @@ import co.proxychecker.ProxyChecker.components.entities.ProxyAnonymity;
 public class RequestAPI {
 
     private UserSettings settings;
-    private String api_url = "http://api.proxychecker.co/";
+    private String api_url = "https://api.proxychecker.co/";
 
     /**
      * The response given by the API server
